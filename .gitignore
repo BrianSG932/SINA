@@ -1,0 +1,28 @@
+# Secretos y configuración local
+.env
+*.env
+server.local.yml
+server.local.yaml
+
+# Logs
+*.log
+logs/
+
+# Bases de datos locales
+*.db
+*.sqlite
+
+# Builds
+dist/
+build/
+bin/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
